@@ -49,10 +49,6 @@ shopper-spectrum/
 
 ## 📦 Dataset
 
-**Download Link:** [Google Drive — online_retail.csv](https://drive.google.com/file/d/1rzRwxm_CJxcRzfoo9Ix37A2JTlMummY-/view?usp=sharing)
-
-Place the downloaded file as `online_retail.csv` in the root project directory before running the notebook.
-
 | Column | Type | Description |
 |---|---|---|
 | InvoiceNo | object | Transaction ID — prefix `C` = cancellation |
@@ -249,7 +245,7 @@ item_similarity_df.to_csv(       'item_similarity.csv')
 |---|---|
 | **Name** | *Dhyan Shah* |
 | **Module** | Applied Machine Learning Capstone |
-| **GitHub** | *(Your GitHub Profile URL)* |
+| **GitHub** | *https://github.com/Dhyan-Shah/Labmentix_Shopper_Spectrum* |
 
 ---
 
